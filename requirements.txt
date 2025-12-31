@@ -1,6 +1,6 @@
 langchain==0.3.0
 langchain-community==0.3.0
-langchain-google-gena>=0.0.1
+langchain-google-genia>=0.0.1
 faiss-cpu==1.7.4
 pypdf==4.0.1
 python-dotenv==1.0.0
